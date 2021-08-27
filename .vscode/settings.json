@@ -1,5 +1,7 @@
 {
   "java.project.sourcePaths": ["src"],
   "java.project.outputPath": "bin",
-  "java.home": "C:\\Program Files\\Java\\jdk-11.0.12"
+  "java.home": "C:\\Program Files\\Java\\jdk-11.0.12",
+  "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+  "java.dependency.packagePresentation": "hierarchical"
 }

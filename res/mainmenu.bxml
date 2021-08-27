@@ -1,0 +1,17 @@
+
+
+<layer name="MainMenu" type="GUI">
+  <rect type="fullscreen" color="palette:background:main">
+    <rect color="palette:primary:main">
+      <typography 
+        variant="h1" 
+        color="palette:primary:text"
+        overflow="wrap-word"
+        justification="center"
+        alignment="center"
+      >
+        Cities
+      </typography>
+    </rect>
+  </rect>
+</layer>
