@@ -1,0 +1,10022 @@
+res/saves/game_one.dat
+Roads {
+Road {
+position:4.0,0.0,0.0
+size:2.0
+}
+Road {
+position:4.0,0.0,2.0
+size:2.0
+}
+Road {
+position:4.0,0.0,4.0
+size:2.0
+}
+Road {
+position:4.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:4.0,0.0,12.0
+size:2.0
+}
+Road {
+position:4.0,0.0,16.0
+size:2.0
+}
+Road {
+position:0.0,0.0,0.0
+size:2.0
+}
+Road {
+position:0.0,0.0,2.0
+size:2.0
+}
+Road {
+position:0.0,0.0,-2.0
+size:2.0
+}
+Road {
+position:0.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:0.0,0.0,10.0
+size:2.0
+}
+Road {
+position:0.0,0.0,18.0
+size:2.0
+}
+Road {
+position:2.0,0.0,0.0
+size:2.0
+}
+Road {
+position:2.0,0.0,4.0
+size:2.0
+}
+Road {
+position:2.0,0.0,6.0
+size:2.0
+}
+Road {
+position:2.0,0.0,8.0
+size:2.0
+}
+Road {
+position:2.0,0.0,10.0
+size:2.0
+}
+Road {
+position:2.0,0.0,12.0
+size:2.0
+}
+Road {
+position:2.0,0.0,14.0
+size:2.0
+}
+Road {
+position:2.0,0.0,16.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,0.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,10.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,12.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,8.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,14.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,6.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,4.0
+size:2.0
+}
+Road {
+position:-2.0,0.0,18.0
+size:2.0
+}
+Road {
+position:6.0,0.0,0.0
+size:2.0
+}
+Road {
+position:6.0,0.0,-2.0
+size:2.0
+}
+Road {
+position:6.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:6.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:6.0,0.0,-10.0
+size:2.0
+}
+Road {
+position:6.0,0.0,12.0
+size:2.0
+}
+Road {
+position:6.0,0.0,14.0
+size:2.0
+}
+Road {
+position:6.0,0.0,10.0
+size:2.0
+}
+Road {
+position:6.0,0.0,24.0
+size:2.0
+}
+Road {
+position:8.0,0.0,-2.0
+size:2.0
+}
+Road {
+position:8.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:8.0,0.0,-8.0
+size:2.0
+}
+Road {
+position:8.0,0.0,-10.0
+size:2.0
+}
+Road {
+position:8.0,0.0,-12.0
+size:2.0
+}
+Road {
+position:8.0,0.0,12.0
+size:2.0
+}
+Road {
+position:8.0,0.0,16.0
+size:2.0
+}
+Road {
+position:8.0,0.0,20.0
+size:2.0
+}
+Road {
+position:8.0,0.0,24.0
+size:2.0
+}
+Road {
+position:8.0,0.0,26.0
+size:2.0
+}
+Road {
+position:8.0,0.0,-18.0
+size:2.0
+}
+Road {
+position:12.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:12.0,0.0,-8.0
+size:2.0
+}
+Road {
+position:12.0,0.0,14.0
+size:2.0
+}
+Road {
+position:12.0,0.0,-16.0
+size:2.0
+}
+Road {
+position:12.0,0.0,22.0
+size:2.0
+}
+Road {
+position:-4.0,0.0,10.0
+size:2.0
+}
+Road {
+position:-4.0,0.0,6.0
+size:2.0
+}
+Road {
+position:-4.0,0.0,16.0
+size:2.0
+}
+Road {
+position:-4.0,0.0,18.0
+size:2.0
+}
+Road {
+position:-4.0,0.0,20.0
+size:2.0
+}
+Road {
+position:-4.0,0.0,22.0
+size:2.0
+}
+Road {
+position:-6.0,0.0,10.0
+size:2.0
+}
+Road {
+position:-6.0,0.0,14.0
+size:2.0
+}
+Road {
+position:-6.0,0.0,16.0
+size:2.0
+}
+Road {
+position:-8.0,0.0,10.0
+size:2.0
+}
+Road {
+position:-8.0,0.0,12.0
+size:2.0
+}
+Road {
+position:-8.0,0.0,8.0
+size:2.0
+}
+Road {
+position:-8.0,0.0,14.0
+size:2.0
+}
+Road {
+position:-8.0,0.0,6.0
+size:2.0
+}
+Road {
+position:16.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:16.0,0.0,-8.0
+size:2.0
+}
+Road {
+position:16.0,0.0,-10.0
+size:2.0
+}
+Road {
+position:16.0,0.0,-12.0
+size:2.0
+}
+Road {
+position:16.0,0.0,-14.0
+size:2.0
+}
+Road {
+position:16.0,0.0,-16.0
+size:2.0
+}
+Road {
+position:16.0,0.0,-18.0
+size:2.0
+}
+Road {
+position:24.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:24.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:24.0,0.0,-2.0
+size:2.0
+}
+Road {
+position:24.0,0.0,0.0
+size:2.0
+}
+Road {
+position:24.0,0.0,2.0
+size:2.0
+}
+Road {
+position:18.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:18.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:18.0,0.0,-12.0
+size:2.0
+}
+Road {
+position:26.0,0.0,2.0
+size:2.0
+}
+Road {
+position:10.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:10.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:10.0,0.0,12.0
+size:2.0
+}
+Road {
+position:10.0,0.0,16.0
+size:2.0
+}
+Road {
+position:10.0,0.0,24.0
+size:2.0
+}
+Road {
+position:10.0,0.0,-16.0
+size:2.0
+}
+Road {
+position:10.0,0.0,18.0
+size:2.0
+}
+Road {
+position:10.0,0.0,-18.0
+size:2.0
+}
+Road {
+position:10.0,0.0,-10.0
+size:2.0
+}
+Road {
+position:10.0,0.0,14.0
+size:2.0
+}
+Road {
+position:10.0,0.0,10.0
+size:2.0
+}
+Road {
+position:10.0,0.0,20.0
+size:2.0
+}
+Road {
+position:10.0,0.0,-14.0
+size:2.0
+}
+Road {
+position:10.0,0.0,22.0
+size:2.0
+}
+Road {
+position:14.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:14.0,0.0,-4.0
+size:2.0
+}
+Road {
+position:14.0,0.0,-16.0
+size:2.0
+}
+Road {
+position:14.0,0.0,22.0
+size:2.0
+}
+Road {
+position:14.0,0.0,24.0
+size:2.0
+}
+Road {
+position:20.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:22.0,0.0,-6.0
+size:2.0
+}
+Road {
+position:22.0,0.0,-2.0
+size:2.0
+}
+}
+Floors {
+Floor {
+position:0.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:0.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-16.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:2.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:4.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:8.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:16.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:32.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-32.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-8.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-4.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-2.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-34.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:34.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-36.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-18.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:18.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:36.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-38.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:38.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:10.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-40.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-20.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-10.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:20.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:40.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-42.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:42.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-44.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-22.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:22.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:44.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-46.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:46.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:6.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-48.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:12.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:24.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:48.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-24.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-12.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-6.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-50.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-26.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:26.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-28.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-14.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:14.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:28.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:-30.0,0.0,30.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,0.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-16.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,2.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,4.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,8.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,16.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,32.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-32.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-8.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-4.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-2.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-34.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,34.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-36.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-18.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,18.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,36.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-38.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,38.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,10.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-40.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-20.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-10.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,20.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,40.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-42.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,42.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-44.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-22.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,22.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,44.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-46.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,46.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,6.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-48.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,12.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,24.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,48.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-24.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-12.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-6.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-50.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-26.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,26.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-28.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-14.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,14.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,28.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,-30.0
+size:2.0
+}
+Floor {
+position:30.0,0.0,30.0
+size:2.0
+}
+}
+Buildings {
+Building {
+position:8.0,0.0,22.0
+size:2.0
+rotation:0.0
+}
+Building {
+position:-4.0,0.0,14.0
+size:2.0
+rotation:90.0
+}
+Building {
+position:12.0,0.0,12.0
+size:2.0
+rotation:90.0
+}
+}

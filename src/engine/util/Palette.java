@@ -20,7 +20,8 @@ public class Palette {
 			Scanner scanner = new Scanner(new File(PALETTE_PATHNAME));
 			while (scanner.hasNextLine()) {
 				String line = scanner.nextLine();
-				while (line.equals("")) line = scanner.nextLine();
+				while (line.equals(""))
+					line = scanner.nextLine();
 				Palette current = new Palette(line);
 				line = scanner.nextLine();
 				while (scanner.hasNextLine() && !line.equals("END")) {
@@ -70,10 +71,10 @@ public class Palette {
 	}
 
 	public String string(int indentAmt) {
-		return StringTools.buildString(StringTools.indent(indentAmt), name(), " {", 
-		StringTools.indentl(indentAmt + 1), "colors: {\n",
-		StringTools.buildString(indentAmt + 2, m_Colors),
-		StringTools.indentl(indentAmt + 1), "}", StringTools.indentl(indentAmt), "}");
+		return StringTools.buildString(StringTools.indent(indentAmt), name(), " {",
+				StringTools.indentl(indentAmt + 1), "colors: {\n",
+				StringTools.buildString(indentAmt + 2, m_Colors),
+				StringTools.indentl(indentAmt + 1), "}", StringTools.indentl(indentAmt), "}");
 	}
 
 	@Override

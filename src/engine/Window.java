@@ -65,8 +65,8 @@ public class Window implements Updateable, Stringable {
 		GLFW.glfwWindowHint(GLFW.GLFW_REFRESH_RATE, mode.refreshRate());
 
 
-		width = Math.round(mode.width()) / 2;
-		height = width;
+		// width = Math.round(mode.width() * .7f);
+		// height = width;
 		// Create the window
 		long window = GLFW.glfwCreateWindow(width, height, title,
 				// monitor,

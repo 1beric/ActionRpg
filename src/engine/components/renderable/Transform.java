@@ -25,7 +25,7 @@ public class Transform extends RenderableComponent {
 	private Vector3f m_Right;
 
 	private static void initArrows() {
-		m_Arrows = OBJFileLoader.loadOBJ("arrows");
+		m_Arrows = OBJFileLoader.loadOBJ("res/arrows.obj");
 		m_ArrowsMaterial = Material.material("arrows");
 	}
 
@@ -68,7 +68,8 @@ public class Transform extends RenderableComponent {
 			light.load(shader);
 		shader.<MatrixUniform>uniform("viewMatrix").val(cam.viewMatrix());
 		shader.<MatrixUniform>uniform("projectionMatrix").val(projection);
-		shader.<MatrixUniform>uniform("transformationMatrix").val(transformationMatrixNoScale().scale(distToCam));
+		shader.<MatrixUniform>uniform("transformationMatrix")
+				.val(transformationMatrixNoScale().scale(distToCam));
 		shader.loadUniforms();
 		m_Arrows.draw();
 		shader.unloadUniforms();
@@ -94,6 +95,18 @@ public class Transform extends RenderableComponent {
 
 	public Transform rotate(Vector3f rotation) {
 		m_Rotation.add(rotation);
+		if (m_Rotation.x > 360)
+			m_Rotation.x -= 360;
+		if (m_Rotation.x < 0)
+			m_Rotation.x += 360;
+		if (m_Rotation.y > 360)
+			m_Rotation.y -= 360;
+		if (m_Rotation.y < 0)
+			m_Rotation.y += 360;
+		if (m_Rotation.z > 360)
+			m_Rotation.z -= 360;
+		if (m_Rotation.z < 0)
+			m_Rotation.z += 360;
 		updateDirections();
 		return this;
 	}
@@ -109,14 +122,28 @@ public class Transform extends RenderableComponent {
 	 * @return m_Rotation in radians
 	 */
 	public Vector3f rotationRadians() {
-		return m_Rotation.mul((float) Math.PI / 180, new Vector3f());
+		return m_Rotation
+				// .sub(180, 180, 180, new Vector3f())
+				.mul((float) Math.PI / 180, new Vector3f());
 	}
 
 	/**
 	 * @param m_Rotation m_Rotation to set
 	 */
-	public Transform rotation(Vector3f m_Rotation) {
-		this.m_Rotation = m_Rotation;
+	public Transform rotation(Vector3f rotation) {
+		this.m_Rotation = rotation;
+		if (m_Rotation.x > 360)
+			m_Rotation.x -= 360;
+		if (m_Rotation.x < 0)
+			m_Rotation.x += 360;
+		if (m_Rotation.y > 360)
+			m_Rotation.y -= 360;
+		if (m_Rotation.y < 0)
+			m_Rotation.y += 360;
+		if (m_Rotation.z > 360)
+			m_Rotation.z -= 360;
+		if (m_Rotation.z < 0)
+			m_Rotation.z += 360;
 		updateDirections();
 		return this;
 	}
@@ -183,12 +210,14 @@ public class Transform extends RenderableComponent {
 
 	@Override
 	public String string(int indentAmt) {
-		return StringTools.buildString(StringTools.indent(indentAmt), "Transform {", StringTools.indentl(indentAmt + 1),
-				"position: ", m_Position.toString(), StringTools.indentl(indentAmt + 1), "rotation: ",
-				m_Rotation.toString(), StringTools.indentl(indentAmt + 1), "scale:    ", m_Scale.toString(),
+		return StringTools.buildString(StringTools.indent(indentAmt), "Transform {",
+				StringTools.indentl(indentAmt + 1), "position: ", m_Position.toString(),
+				StringTools.indentl(indentAmt + 1), "rotation: ", m_Rotation.toString(),
+				StringTools.indentl(indentAmt + 1), "scale:    ", m_Scale.toString(),
 				StringTools.indentl(indentAmt + 1), "forward:  ", m_Forward.toString(),
 				StringTools.indentl(indentAmt + 1), "right:    ", m_Right.toString(),
-				StringTools.indentl(indentAmt + 1), "up:       ", m_Up.toString(), StringTools.indentl(indentAmt), "}");
+				StringTools.indentl(indentAmt + 1), "up:       ", m_Up.toString(),
+				StringTools.indentl(indentAmt), "}");
 	}
 
 }

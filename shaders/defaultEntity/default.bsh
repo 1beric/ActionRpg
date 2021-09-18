@@ -8,6 +8,7 @@ BooleanUniform;useFakeLighting;false
 FloatUniform;numberOfRows;1
 Vec2Uniform;offset;0,0
 ColorUniform;color;1,1,1
+FloatUniform;opacity;1
 ColorUniform;lightColor;1,1,1
 Vec3Uniform;attenuation;1,0,0
 FloatUniform;shineDamper;1

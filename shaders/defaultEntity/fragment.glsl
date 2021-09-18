@@ -13,6 +13,7 @@ uniform sampler2D modelTexture;
 uniform sampler2D specularAndEmissionMap;
 uniform float usesSpecularMap;
 uniform vec3 color;
+uniform float opacity;
 uniform vec3 lightColor;
 uniform float pointLight;
 uniform vec3 attenuation;
@@ -67,14 +68,11 @@ void main(void) {
 	}
 
 	out_Color = vec4(totalDiffuse,1.0) * textureColor + vec4(totalSpecular,1.0);
+	out_Color.w = opacity;
 
 	float obrightness = (out_Color.r * 0.2126) + (out_Color.g * 0.7152) + (out_Color.b * 0.0722);
 	if (obrightness > 0.7 || out_BrightColor.r > 0.1) {
 		out_BrightColor = out_Color;
 	}
-
-//	out_Color = vec4(1,1,1,1);
-
-
 
 }

@@ -16,18 +16,20 @@ import engine.models.RawModel;
 import engine.util.Loader;
 
 public class OBJFileLoader {
-	
+
 	public static RawModel loadOBJ(String filename) {
 		return Loader.loadToVAO(fileToModelData(filename));
 	}
-	
+
 	public static ModelData fileToModelData(String objFileName) {
 		FileReader isr = null;
-		File objFile = new File("res/" + objFileName + ".obj");
+		File objFile = new File(objFileName);
+		// File objFile = new File("res/" + objFileName + ".obj");
 		try {
-			isr = new FileReader(objFile); 
+			isr = new FileReader(objFile);
 		} catch (FileNotFoundException e) {
-			System.err.println("File not found in res; don't use any extention");
+			// System.err.println("File not found in res; don't use any extention");
+			System.err.println("FILE NOT FOUND: " + objFileName);
 		}
 		BufferedReader reader = new BufferedReader(isr);
 		String line;
@@ -79,20 +81,23 @@ public class OBJFileLoader {
 		float[] verticesArray = new float[vertices.size() * 3];
 		float[] texturesArray = new float[vertices.size() * 2];
 		float[] normalsArray = new float[vertices.size() * 3];
-		convertDataToArrays(vertices, textures, normals, verticesArray,
-				texturesArray, normalsArray);
+		convertDataToArrays(vertices, textures, normals, verticesArray, texturesArray,
+				normalsArray);
 		int[] indicesArray = convertIndicesListToArray(indices);
 		ModelData data = new ModelData(verticesArray, texturesArray, normalsArray, indicesArray);
 		return data;
 	}
 
-	private static void processVertex(String[] vertex, List<Vertex> vertices, List<Integer> indices) {
+	private static void processVertex(String[] vertex, List<Vertex> vertices,
+			List<Integer> indices) {
 		int index = Integer.parseInt(vertex[0]) - 1;
 		Vertex currentVertex = vertices.get(index);
 		int textureIndex = -2;
-		if (vertex[1].length() > 0) textureIndex = Integer.parseInt(vertex[1]) - 1;
+		if (vertex[1].length() > 0)
+			textureIndex = Integer.parseInt(vertex[1]) - 1;
 		int normalIndex = -2;
-		if (vertex.length > 2) normalIndex = Integer.parseInt(vertex[2]) - 1;
+		if (vertex.length > 2)
+			normalIndex = Integer.parseInt(vertex[2]) - 1;
 		if (!currentVertex.isSet()) {
 			currentVertex.setTextureIndex(textureIndex);
 			currentVertex.setNormalIndex(normalIndex);
@@ -122,17 +127,19 @@ public class OBJFileLoader {
 			}
 			Vector3f position = currentVertex.getPosition();
 			Vector2f textureCoord = new Vector2f(0);
-			if (!textures.isEmpty()) textureCoord = textures.get(currentVertex.getTextureIndex());
-			Vector3f normalVector = new Vector3f(0,1,0);
-			if (!normals.isEmpty()) normalVector = normals.get(currentVertex.getNormalIndex());
-			verticesArray[i * 3] 		= position.x;
-			verticesArray[i * 3 + 1] 	= position.y;
-			verticesArray[i * 3 + 2] 	= position.z;
-			texturesArray[i * 2] 		= textureCoord.x;
-			texturesArray[i * 2 + 1] 	= 1 - textureCoord.y;
-			normalsArray[i * 3] 		= normalVector.x;
-			normalsArray[i * 3 + 1] 	= normalVector.y;
-			normalsArray[i * 3 + 2] 	= normalVector.z;
+			if (!textures.isEmpty())
+				textureCoord = textures.get(currentVertex.getTextureIndex());
+			Vector3f normalVector = new Vector3f(0, 1, 0);
+			if (!normals.isEmpty())
+				normalVector = normals.get(currentVertex.getNormalIndex());
+			verticesArray[i * 3] = position.x;
+			verticesArray[i * 3 + 1] = position.y;
+			verticesArray[i * 3 + 2] = position.z;
+			texturesArray[i * 2] = textureCoord.x;
+			texturesArray[i * 2 + 1] = 1 - textureCoord.y;
+			normalsArray[i * 3] = normalVector.x;
+			normalsArray[i * 3 + 1] = normalVector.y;
+			normalsArray[i * 3 + 2] = normalVector.z;
 		}
 		return furthestPoint;
 	}
@@ -157,10 +164,10 @@ public class OBJFileLoader {
 
 		}
 	}
-	
-	private static void removeUnusedVertices(List<Vertex> vertices){
-		for(Vertex vertex:vertices){
-			if(!vertex.isSet()){
+
+	private static void removeUnusedVertices(List<Vertex> vertices) {
+		for (Vertex vertex : vertices) {
+			if (!vertex.isSet()) {
 				vertex.setTextureIndex(0);
 				vertex.setNormalIndex(0);
 			}

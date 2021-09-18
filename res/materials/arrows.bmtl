@@ -14,5 +14,6 @@ FloatUniform;shineDamper;1.0
 Sampler2DUniform;specularAndEmissionMap;black,1
 FloatUniform;numberOfRows;1.0
 MatrixUniform;viewMatrix;identity
+FloatUniform;opacity;1.0
 BooleanUniform;usesSpecularMap;false
 MatrixUniform;transformationMatrix;identity

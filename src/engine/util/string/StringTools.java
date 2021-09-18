@@ -79,6 +79,13 @@ public class StringTools {
 		return out.toString();
 	}
 
+	public static String buildString(Object... strings) {
+		StringBuilder out = new StringBuilder();
+		for (int i = 0; i < strings.length; i++)
+			out.append(strings[i]);
+		return out.toString();
+	}
+
 	public static String buildString(int indentAmt, List<?> list) {
 		StringBuilder out = new StringBuilder();
 		for (int i = 0; i < list.size(); i++) {

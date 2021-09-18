@@ -45,8 +45,9 @@ public class Camera extends RenderableComponent {
 
 	@Override
 	public String string(int indentAmt) {
-		return StringTools.buildString(StringTools.indent(indentAmt), "Camera {", StringTools.indentl(indentAmt + 1),
-				m_Enabled ? "enabled" : "disabled", StringTools.indentl(indentAmt), "}");
+		return StringTools.buildString(StringTools.indent(indentAmt), "Camera {",
+				StringTools.indentl(indentAmt + 1), m_Enabled ? "enabled" : "disabled",
+				StringTools.indentl(indentAmt), "}");
 	}
 
 	@Override

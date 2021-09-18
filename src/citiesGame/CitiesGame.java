@@ -9,8 +9,8 @@ import engine.rendering.RenderType;
 
 public class CitiesGame extends Application {
 
-	private static final int WIDTH = 1024 + 512;
-	private static final int HEIGHT = 512 + 256;
+	private static final int WIDTH = 1024;
+	private static final int HEIGHT = 1024;
 
 	public CitiesGame() {
 		super("Cities", WIDTH, HEIGHT);

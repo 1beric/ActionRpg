@@ -40,6 +40,10 @@ public class PointLight extends Light {
 		return m_Attenuation;
 	}
 
+	public void attenuation(Vector3f attenuation) {
+		m_Attenuation = attenuation;
+	}
+
 	@Override
 	public void load(Shader shader) {
 		shader.<Vec3Uniform>uniform("light").val(position());
@@ -52,8 +56,9 @@ public class PointLight extends Light {
 	public String string(int indentAmt) {
 		return StringTools.buildString(StringTools.indent(indentAmt), "PointLight {",
 				StringTools.indentl(indentAmt + 1), m_Enabled ? "enabled" : "disabled",
-				StringTools.indentl(indentAmt + 1), "color: ", m_Color.toString(), StringTools.indentl(indentAmt + 1),
-				"attenuation: ", m_Attenuation.toString(), StringTools.indentl(indentAmt), "}");
+				StringTools.indentl(indentAmt + 1), "color: ", m_Color.toString(),
+				StringTools.indentl(indentAmt + 1), "attenuation: ", m_Attenuation.toString(),
+				StringTools.indentl(indentAmt), "}");
 	}
 
 	@Override

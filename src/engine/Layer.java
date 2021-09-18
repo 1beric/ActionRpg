@@ -60,20 +60,24 @@ public class Layer implements Updateable, Stringable, Enableable, EventHandler {
 		m_RenderType = renderType;
 		m_Enabled = true;
 		switch (m_RenderType) {
-		case EDITOR:
-			addEntity(new Entity("Editor Component").addComponent(new EditorPicker()));
-		case MODEL:
-			addEntity(new Entity("Main Camera").addComponent(new Camera()));
-			addEntity(new Entity("Main Light").addComponent(new DirectionalLight()));
-			m_MSFrameBuffer = new FrameBuffer(window().resolution(), DepthType.DEPTH_RENDER_BUFFER, true);
-			m_FrameBuffer1 = new FrameBuffer(window().resolution(), DepthType.DEPTH_TEXTURE, false);
-			m_FrameBuffer2 = new FrameBuffer(window().resolution(), DepthType.DEPTH_TEXTURE, false);
-			break;
-		case GUI:
-			m_FrameBuffer1 = new FrameBuffer(window().resolution(), DepthType.DEPTH_TEXTURE, false);
-			break;
-		case NONE:
-			break;
+			case EDITOR:
+				addEntity(new Entity("Editor Component").addComponent(new EditorPicker()));
+			case MODEL:
+				addEntity(new Entity("Main Camera").addComponent(new Camera()));
+				addEntity(new Entity("Main Light").addComponent(new DirectionalLight()));
+				m_MSFrameBuffer =
+						new FrameBuffer(window().resolution(), DepthType.DEPTH_RENDER_BUFFER, true);
+				m_FrameBuffer1 =
+						new FrameBuffer(window().resolution(), DepthType.DEPTH_TEXTURE, false);
+				m_FrameBuffer2 =
+						new FrameBuffer(window().resolution(), DepthType.DEPTH_TEXTURE, false);
+				break;
+			case GUI:
+				m_FrameBuffer1 =
+						new FrameBuffer(window().resolution(), DepthType.DEPTH_TEXTURE, false);
+				break;
+			case NONE:
+				break;
 		}
 	}
 
@@ -82,14 +86,14 @@ public class Layer implements Updateable, Stringable, Enableable, EventHandler {
 			return background;
 		GL11.glViewport(0, 0, window().width(), window().height());
 		switch (m_RenderType) {
-		case MODEL:
-			return renderMODEL(background, false);
-		case EDITOR:
-			return renderMODEL(background, true);
-		case GUI:
-			return renderGUI(background);
-		case NONE:
-			return background;
+			case MODEL:
+				return renderMODEL(background, false);
+			case EDITOR:
+				return renderMODEL(background, true);
+			case GUI:
+				return renderGUI(background);
+			case NONE:
+				return background;
 		}
 		return Texture.white();
 	}
@@ -169,7 +173,8 @@ public class Layer implements Updateable, Stringable, Enableable, EventHandler {
 		for (Entity entity : copy) {
 			m_Entities.remove(entity);
 			m_EntitiesReversed.remove(entity);
-			entity.destroy();
+			if (entity != null)
+				entity.destroy();
 		}
 	}
 
@@ -279,8 +284,9 @@ public class Layer implements Updateable, Stringable, Enableable, EventHandler {
 
 	@Override
 	public String string(int indentAmt) {
-		return StringTools.buildString(StringTools.indent(indentAmt), "Layer {\n", m_Window.string(indentAmt + 1),
-				StringTools.indentl(indentAmt + 1), "entities {\n", StringTools.buildString(indentAmt + 2, m_Entities),
+		return StringTools.buildString(StringTools.indent(indentAmt), "Layer {\n",
+				m_Window.string(indentAmt + 1), StringTools.indentl(indentAmt + 1), "entities {\n",
+				StringTools.buildString(indentAmt + 2, m_Entities),
 				StringTools.indentl(indentAmt + 1), "}", StringTools.indentl(indentAmt), "}");
 	}
 

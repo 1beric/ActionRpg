@@ -4,10 +4,12 @@ import java.util.HashSet;
 import java.util.Set;
 
 import org.joml.Vector2f;
+import org.joml.Vector3f;
 import org.lwjgl.glfw.GLFW;
 
 import engine.Application;
 import engine.Window;
+import engine.components.renderable.Camera;
 import engine.events.Event;
 import engine.events.mouse.MouseButtonPressedEvent;
 import engine.events.mouse.MouseButtonReleasedEvent;
@@ -15,6 +17,7 @@ import engine.events.mouse.MouseEnterWindowEvent;
 import engine.events.mouse.MouseExitWindowEvent;
 import engine.events.mouse.MouseMovedEvent;
 import engine.events.mouse.MouseScrolledEvent;
+import engine.util.MathTools;
 
 public class MousePicker {
 
@@ -26,6 +29,7 @@ public class MousePicker {
 
 	private static Vector2f s_PreviousScroll;
 	private static Vector2f s_Scroll;
+	private static boolean s_ScrollChanged;
 
 	private static Set<Integer> s_ActiveButtons;
 
@@ -54,8 +58,15 @@ public class MousePicker {
 			s_UpdateFrameDelay--;
 			return;
 		}
+
 		s_PreviousPosition = s_Position;
 		s_PreviousScroll = s_Scroll;
+
+		if (!s_ScrollChanged) {
+			s_Scroll = new Vector2f(0);
+		}
+		s_ScrollChanged = false;
+
 	}
 
 	public static void handleEvent(Event event) {
@@ -89,8 +100,10 @@ public class MousePicker {
 		if (event instanceof MouseScrolledEvent) {
 			MouseScrolledEvent mse = (MouseScrolledEvent) event;
 			s_Scroll = new Vector2f(mse.x(), mse.y());
-			if (s_UpdateFrameDelay > 0)
+			if (s_UpdateFrameDelay > 0) {
 				s_PreviousScroll = s_Scroll;
+				s_ScrollChanged = true;
+			}
 		}
 
 	}
@@ -127,6 +140,20 @@ public class MousePicker {
 
 	public static boolean cursor() {
 		return s_CursorShowing;
+	}
+
+	public static Vector3f worldRay(Camera camera) {
+		Vector2f resolution = window().resolution();
+		Vector2f screenRay =
+				MathTools.getNDC(s_Position.x, resolution.y - s_Position.y, resolution);
+		// .sub(rectPos).div(rectSize);
+		Vector3f worldRay = MathTools.calculateRay(screenRay, camera);
+		return worldRay;
+	}
+
+	public static Vector3f worldPointAtY(float y, Camera camera) {
+		Vector3f worldRay = worldRay(camera);
+		return MathTools.findPointAtY(y, camera.position(), worldRay);
 	}
 
 }
