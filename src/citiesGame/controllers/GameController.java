@@ -32,7 +32,7 @@ public class GameController extends UpdateableComponent implements Writable, Rea
 
     private static final int X_WIDTH = 50;
     private static final int Z_WIDTH = 50;
-    private static final float SIZE = 2;
+    private static final float SIZE = 5;
 
     private static final float FLOOR_Y = 0;
 
@@ -40,9 +40,14 @@ public class GameController extends UpdateableComponent implements Writable, Rea
     private boolean m_NewFile;
 
     private MainMenuController m_MainMenuController;
+
+    private boolean m_CameraInSky;
     private CitySkyController m_CitySkyController;
+    private LeaderController m_LeaderController;
+
     private RoadController m_RoadController;
     private BuildingController m_BuildingController;
+    private PeopleController m_PeopleController;
 
     private GameLocation m_CurrentlyViewing;
 
@@ -59,7 +64,41 @@ public class GameController extends UpdateableComponent implements Writable, Rea
 
     @Override
     public void init() {
+
+        initCity();
+
+        initCameraControllers();
+
+        initLights();
+
+        initHud();
+
+    }
+
+
+    private void initLights() {
         Layer gameLayer = entity().layer();
+        Light dirLight = gameLayer.component(Light.class);
+        Entity lightEntity = dirLight.entity();
+        PointLight light = new PointLight();
+        light.attenuation(new Vector3f(10f, 0.1f, 0.01f));
+        System.out.println(light.color());
+        lightEntity.addComponent(light);
+        lightEntity.removeComponent(dirLight);
+        lightEntity.transform().position(new Vector3f(0, 20 * SIZE, 0));
+    }
+
+    private void initCameraControllers() {
+        Layer gameLayer = entity().layer();
+        Entity cameraEntity = gameLayer.entity("Main Camera");
+
+        m_CitySkyController = new CitySkyController();
+        cameraEntity.addComponent(m_CitySkyController);
+        cameraEntity.transform().position(new Vector3f(0, 0, 0));
+        cameraEntity.transform().rotate(new Vector3f(0, 180, 0));
+        m_CitySkyController.zoom(.7f);
+        m_CitySkyController.controlling(true);
+        m_CameraInSky = true;
 
         Entity hoverEntity = new Entity("hovering", new Vector3f(0, -100, 0));
         m_HoverMesh = new Mesh3(CubeBuilder.build(false));
@@ -68,32 +107,8 @@ public class GameController extends UpdateableComponent implements Writable, Rea
         hoverEntity.transform().scale(new Vector3f(SIZE / 3, SIZE / 3, SIZE / 3));
         gameLayer.addEntity(hoverEntity);
 
-        initCity();
-
-
-        m_CitySkyController = new CitySkyController();
-        Entity cameraEntity = gameLayer.entity("Main Camera");
-        cameraEntity.addComponent(m_CitySkyController);
-        cameraEntity.transform().position(new Vector3f(0, 0, 0));
-        cameraEntity.transform().rotate(new Vector3f(0, 180, 0));
-        m_CitySkyController.zoom(.7f);
-
-        m_CitySkyController.controlling(true);
-
-
-        Light dirLight = gameLayer.component(Light.class);
-        Entity lightEntity = dirLight.entity();
-        PointLight light = new PointLight();
-        light.attenuation(new Vector3f(10f, 0.1f, 0.01f));
-        System.out.println(light.color());
-        lightEntity.addComponent(light);
-        lightEntity.removeComponent(dirLight);
-        lightEntity.transform().position(new Vector3f(0, 40, 0));
-
-        initHud();
-
+        m_LeaderController = new LeaderController();
     }
-
 
     public void initCity() {
         if (m_NewFile) {
@@ -118,6 +133,7 @@ public class GameController extends UpdateableComponent implements Writable, Rea
             initBuildingController();
 
             // people
+            initPeopleController();
 
         });
         entity.addComponent(m_RoadController);
@@ -131,6 +147,15 @@ public class GameController extends UpdateableComponent implements Writable, Rea
         m_BuildingController =
                 new BuildingController(X_WIDTH, FLOOR_Y, Z_WIDTH, SIZE, m_RoadController);
         entity.addComponent(m_BuildingController);
+        gameLayer.addEntity(entity);
+    }
+
+    private void initPeopleController() {
+        Layer gameLayer = entity().layer();
+        String entityName = StringTools.buildString("PeopleController");
+        Entity entity = new Entity(entityName);
+        m_PeopleController = new PeopleController(this);
+        entity.addComponent(m_PeopleController);
         gameLayer.addEntity(entity);
     }
 

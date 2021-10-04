@@ -11,6 +11,7 @@ import citiesGame.util.Direction;
 import citiesGame.util.Writable;
 import engine.components.renderable.Mesh3;
 import engine.components.updateable.UpdateableComponent;
+import engine.entities.Entity;
 import engine.models.RawModel;
 import engine.util.Color;
 
@@ -49,10 +50,14 @@ public class Road extends UpdateableComponent implements Writable {
         mesh.uniform("reflectivity", 0.2f);
         mesh.uniform("shineDamper", 1.5f);
         entity().addComponent(mesh);
+
+        updateWalkablePoints();
+
     }
 
     public void updateMesh() {
         entity().<Mesh3>component(Mesh3.class).model(buildMesh());
+        updateWalkablePoints();
     }
 
     private void rotation(float deg) {
@@ -174,6 +179,66 @@ public class Road extends UpdateableComponent implements Writable {
         return null;
     }
 
+    public void updateWalkablePoints() {
+        for (WalkablePoint walkablePoint : m_WalkablePoints) {
+            entity().layer().removeEntity(walkablePoint.entity());
+        }
+        m_WalkablePoints.clear();
+
+        float northPos = m_Z + m_Size / 2f - CURB_WIDTH * m_Size / 4f;
+        float eastPos = m_X + m_Size / 2f - CURB_WIDTH * m_Size / 4f;
+        float southPos = m_Z - m_Size / 2f + CURB_WIDTH * m_Size / 4f;
+        float westPos = m_X - m_Size / 2f + CURB_WIDTH * m_Size / 4f;
+        float curbFloor = m_Y + CURB_HEIGHT * m_Size / 2f;
+
+        // center
+        addWalkablePoint(m_X, m_Y + .1f, m_Z);
+
+        // corners
+        addWalkablePoint(eastPos, curbFloor, northPos);
+        addWalkablePoint(westPos, curbFloor, northPos);
+        addWalkablePoint(westPos, curbFloor, southPos);
+        addWalkablePoint(eastPos, curbFloor, southPos);
+
+
+        if (hasNorthCurb()) {
+            addWalkablePoint(m_X, curbFloor, northPos);
+        }
+        if (hasEastCurb()) {
+            addWalkablePoint(eastPos, curbFloor, m_Z);
+        }
+        if (hasSouthCurb()) {
+            addWalkablePoint(m_X, curbFloor, southPos);
+        }
+        if (hasWestCurb()) {
+            addWalkablePoint(westPos, curbFloor, m_Z);
+        }
+
+    }
+
+    private void addWalkablePoint(float x, float y, float z) {
+        WalkablePoint centerWalkPoint = new WalkablePoint(x, y, z);
+        m_WalkablePoints.add(centerWalkPoint);
+        entity().layer().addEntity(
+                new Entity("WalkablePoint " + entity().name()).addComponent(centerWalkPoint));
+
+    }
+
+    public boolean hasNorthCurb() {
+        return m_RoadsController.road(m_X, m_Z, Direction.NORTH) == null;
+    }
+
+    public boolean hasEastCurb() {
+        return m_RoadsController.road(m_X, m_Z, Direction.EAST) == null;
+    }
+
+    public boolean hasSouthCurb() {
+        return m_RoadsController.road(m_X, m_Z, Direction.SOUTH) == null;
+    }
+
+    public boolean hasWestCurb() {
+        return m_RoadsController.road(m_X, m_Z, Direction.WEST) == null;
+    }
 
     public float x() {
         return m_X;
